@@ -29,7 +29,8 @@ A Deep Learning-based Image Captioning System with object and action detection, 
 ## 🛠️ Technology Stack
 
 - **Python 3.13**
-- **TensorFlow 2.x / Keras** - Deep learning framework
+- **TensorFlow 2.20.0** - Deep learning framework
+- **Keras 3.12.0** - High-level neural networks API
 - **Streamlit** - Web interface
 - **NLTK** - Natural language processing
 - **OpenCV** - Image processing
@@ -163,7 +164,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Deep Learning Project
+- Divyansh Bohra - Deep Learning Project
 
 ## 🙏 Acknowledgments
 
